@@ -1,0 +1,19 @@
+{
+ "n_tweet": 104914,
+ "n_user": 21049,
+ "popular_users": [
+  [
+   "washingtonpost",
+   12584968
+  ],
+  [
+   "TheOnion",
+   11427200
+  ],
+  [
+   "WIRED",
+   10587728
+  ]
+ ],
+ "Tuesday_Tweet": 44558
+}
